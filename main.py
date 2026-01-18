@@ -8,6 +8,7 @@ def buscar_preco_coinbase(moeda):
         resposta = requests.get(url)
         dados = resposta.json()
         
+        #Float serve para transformar o texto em número
         preco = float(dados["data"]["amount"])
         
         print(f"Bitcoin em {moeda}: {preco:,.2f}")
