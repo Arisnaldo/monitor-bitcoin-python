@@ -63,7 +63,7 @@ Desenvolvido para fins de estudo e monitoramento de mercado. 🚀
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./img/print_brl.png" alt="Tela em Reais" width="40%">
+  <img src="./img/print_brl.png" alt="Tela em Reais" width="47%">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="./img/print_usd.png" alt="Tela em Dólares" width="45%">
 </p>
